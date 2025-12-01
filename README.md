@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samar-12-23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar-12-23&theme=tokyonight" alt="GitHub Streak" />  
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=samar-12-23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar-12-23&theme=tokyonight" alt="GitHub Streak" />   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samar-12-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />  
 </p>
 
