@@ -10,11 +10,14 @@
 ---
 
 ### 🌟 About Me  
-- 🌱 Currently diving into **Flask, AI/ML** to craft scalable and intelligent applications.  
+- 🌱 Currently diving into **Flask, AI/ML** to craft scalable and intelligent applications.
+   
 - 👯 Open to **collaborating** on impactful projects in **Web Development & Data Science**.  
-- 👨‍💻 Explore all my projects here 👉 [GitHub Portfolio](https://github.com/samar-12-23)  
-- 💬 Love discussing **Data Structures, Algorithms, and ML applications**.  
-- 📫 Reach me at **samargupta0206@gmail.com**  
+ 
+- 💬 Love discussing **Data Structures, Algorithms, and ML applications**.
+  
+- 📫 Reach me at **samargupta0206@gmail.com**
+  
 - ⚡ Fun fact: *Every bug is just a hidden feature waiting to be discovered* 😉  
 
 ---
