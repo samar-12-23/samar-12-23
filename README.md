@@ -36,9 +36,16 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql,git,html,css,javascript,postman,thunderclient,numpy,pandas,seaborn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql,git,html,css,javascript,postman" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thunder_Client-242424?style=for-the-badge&logo=thunderclient&logoColor=white" />
+</p>
 ---
 
 ### 📊 GitHub Stats  
