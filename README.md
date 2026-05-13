@@ -36,7 +36,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,flask,django,sql,postgresql,git,html,css,javascript,postman,numpy,pandas,seaborn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql,git,html,css,javascript,postman,numpy,pandas,seaborn,matplotlib" />
 </p>
 
 ---
