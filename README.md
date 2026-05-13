@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samar Gupta</h1>
-<h3 align="center">🚀 A Passionate Software Engineer & Aspiring Data Scientist from India</h3>
+<h3 align="center">🚀 A Passionate Software Engineer & Backend Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/wGWFVvwJybDwTlnTSS/giphy.gif" />
 
