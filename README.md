@@ -36,7 +36,8 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,flask,django,djangorestframework,mysql,postgresql,git,html,css,javascript,postman" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,postgresql,git,html,css,javascript,postman" />
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 <p align="left">
